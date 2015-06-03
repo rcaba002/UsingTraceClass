@@ -1,0 +1,4 @@
+    The value of a is 1
+    The value of a is 2
+    The value of a is 3
+Trace Information-Product Ending

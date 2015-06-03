@@ -1,0 +1,6 @@
+C:\Work\Claim\UsingTraceClass\bin\Debug\UsingTraceClass.exe.config
+C:\Work\Claim\UsingTraceClass\bin\Debug\UsingTraceClass.exe
+C:\Work\Claim\UsingTraceClass\bin\Debug\UsingTraceClass.pdb
+C:\Work\Claim\UsingTraceClass\obj\Debug\UsingTraceClass.csprojResolveAssemblyReference.cache
+C:\Work\Claim\UsingTraceClass\obj\Debug\UsingTraceClass.exe
+C:\Work\Claim\UsingTraceClass\obj\Debug\UsingTraceClass.pdb
